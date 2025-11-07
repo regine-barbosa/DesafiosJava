@@ -5,7 +5,7 @@ Este repositório faz parte das atividades do **bootcamp Elas+ Tech**, uma inici
 ---
 
 ## Sobre este repositório
-Espaço exclusivo para para reunir **exercícios de prática da linguagem Java (gerados por IA)** além de projetos derivados da trilha de **Back-end** do bootcamp.  
+Espaço exclusivo para para reunir **exercícios de prática com os fundamentos da linguagem Java (gerados por IA)** além de projetos derivados da trilha de **Back-end** do bootcamp.  
 O conteúdo será atualizado ao longo da jornada, acompanhando meu progresso no programa.
 
 ---
